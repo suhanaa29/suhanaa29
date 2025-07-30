@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey there! I’m a 1st-year B.Tech (AI/ML) student, super curious about tech and always excited to learn new things. 🚀 I love collaborating and joining projects—even as a beginner, I’m ready to dive in and grow together! 🌱 Let’s connect and create something awesome! 🤝
+ Hey there! I’m a 1st-year B.Tech student, super curious about tech and always excited to learn new things. 🚀 I love collaborating and joining projects—even as a beginner, I’m ready to dive in and grow together! 🌱 Let’s connect and create something awesome! 🤝
 
 
 ## 🌐 Socials:
