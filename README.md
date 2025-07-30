@@ -1,7 +1,9 @@
 ## HI! 👋
 - I am Aparna Singh.
 - 1st year btech student at UPES,Dehradun.
-- 
+- I am currently learning basics of coding.
+- You can reach me at aparnasingh964@gmail.com 
+
 
 <!--
 **suhanaa29/suhanaa29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
