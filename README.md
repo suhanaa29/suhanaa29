@@ -33,5 +33,6 @@ B.tech Student
 
 ![](https://nirzak-streak-stats.vercel.app/?user=suhanaa29&theme=dark&hide_border=true)<br/>
 
+![:name](https://count.getloli.com/@suhanaa29)
 <!-- 
 
