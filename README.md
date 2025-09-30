@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 B.tech Student
 --------------
 
+![:name](https://count.getloli.com/@suhanaa29?theme=rule34)
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aparnasingh29062006@gmail.com](mailto:aparnasingh29062006@gmail.com)
 * 🧠  I'm learning C
