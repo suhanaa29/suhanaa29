@@ -41,6 +41,6 @@ I'm a B.Tech Computer Science student from India, currently exploring programmin
 <p align="left">
   <a href="https://github.com/suhanaa29">GitHub</a> •
   <a href="https://www.linkedin.com/in/aparna-singh-469633377/">LinkedIn</a> •
-  <a href="https://www.instagram.com/_suhanaaah_/">Instagram</a> •
+  <a href="https://www.instagram.com/_ashisded_/">Instagram</a> •
   <a href="https://x.com/AparnaSing8923">X</a>
 </p>
