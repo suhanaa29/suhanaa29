@@ -10,7 +10,7 @@ I'm a B.Tech Computer Science student from India, currently exploring programmin
 - 💻 Building small projects and experimenting with ideas
 - 🔎 Looking for **good-first-issues** and open-source projects
 - 💼 Looking for a **beginner-friendly internship**
-- 🏆 Hoping to take part in my **first hackathon**
+  
 
 ![](https://count.getloli.com/@suhanaa29?theme=rule34)
 
